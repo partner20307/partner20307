@@ -30,12 +30,13 @@ Experienced Full Stack & Blockchain developer who adept in ringing forth experti
 
 :popcorn: Smart contract development using Solidity and Haskell, Rust (3 years), Go, C++
 
-:muscle: Great team player
 
-:muscle: Handsome logic
+    :muscle: Great team player
 
-:muscle: Extensive Experience
+    :muscle: Handsome logic
 
-:muscle: Creative algorithm
+    :muscle: Extensive Experience
+
+    :muscle: Creative algorithm
 
 Best Regards.
