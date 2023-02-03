@@ -1,7 +1,6 @@
 # Popcorn Developer
 
 ### Skills
-
 #### - Frontend
 
 <a href="https://github.com/Sasuke031026">
