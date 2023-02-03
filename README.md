@@ -2,7 +2,7 @@
 
 ### Skills
 
-### - Frontend
+#### - Frontend
 
 <a href="https://github.com/Sasuke031026">
 	<img 
