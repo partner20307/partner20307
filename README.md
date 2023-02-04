@@ -10,7 +10,7 @@
 		width="50"
 	/>
 </a>
- 
+&nbsp;
 <a href="https://github.com/Popcorn412">
 	<img 
 		alt="HTML" 
@@ -18,6 +18,7 @@
 		width="50"
 	/>
 </a>
+&nbsp;
 <a href="https://github.com/Popcorn412">
 	<img 
 		alt="HTML" 
