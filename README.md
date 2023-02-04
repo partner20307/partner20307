@@ -7,6 +7,6 @@
 	<img 
 		alt="HTML" 
 		src="./assets/images/icons/html.svg" 
-		width="5"
+		width="50"
 	/>
 </a>
