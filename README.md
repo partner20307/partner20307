@@ -3,5 +3,5 @@
 ### Skills
 
 <a href="https://github.com/Popcorn412">
-	<img alt="Skills" src="./assets/images/skills.svg" width="50"/>
+	<img alt="skills" src="./assets/images/skills.svg" />
 </a>
